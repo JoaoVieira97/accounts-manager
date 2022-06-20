@@ -5,8 +5,8 @@
 Application to manage access credentials to multiple accounts.
 It allows to add accounts, delete and edit them.
 
-Developed using **React.js** and **Sass** for styling and responsiveness.
-The application stores the data on the *localStorage*, and if it is empty it will load some example accounts at the beginning.
+Developed using **React.js** and **Sass** ([here](src/App.scss)) for styling and responsiveness.
+The application stores the data on the *localStorage*, and if it is empty it will load some example accounts at the beginning ([this](src/utils/accounts.js)).
 
 #### Setup
 
