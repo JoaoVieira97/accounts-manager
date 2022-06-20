@@ -26,8 +26,16 @@ $ npm start
 
 #### Screenshots
 
+Accounts grid:
+<br>
 <img src="others/screenshot-1.png" width="600"/>
 <br>
+<br>
+Grid responsiveness with different screen sizes:
+<br>
 <img src="others/screenshot-2.png" width="400"/>
+<br>
+<br>
+Adding new account:
 <br>
 <img src="others/screenshot-3.png" width="400"/>
